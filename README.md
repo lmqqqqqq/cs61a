@@ -16,7 +16,7 @@ CS 61A primarily uses the Python 3 programming language. Python is a popular lan
 
 ### Useful links
 
-- [Course Website (2023 spring)](hhttps://inst.eecs.berkeley.edu/~cs61a/sp23/)
+- [Course Website (2023 spring)](https://inst.eecs.berkeley.edu/~cs61a/sp23/)
 - [Textbook (SICP for python)](http://composingprograms.com/pages/11-getting-started.html) 
 
 
