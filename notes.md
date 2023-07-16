@@ -1,9 +1,9 @@
 # Lab2
 ### Short Circuiting
 
-If `and` and `or` do not *short-circuit*, they just return the last value
+If `and` and `or` do not *short-circuit*, they just return the last value.
 
- `and` and `or` don't always return booleans when using values other than `True` and `False`
+ `and` and `or` don't always return booleans when using values other than `True` and `False`.
 
 ```python
 >>> True and 13
