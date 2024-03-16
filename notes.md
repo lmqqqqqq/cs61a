@@ -11,3 +11,22 @@ If `and` and `or` do not *short-circuit*, they just return the last value.
 >>> not 10
 False
 ```
+
+
+
+# Mutability
+
+
+
+```python
+>>> a = [10] 
+>>> b = a 
+>>> a == b 
+True 
+>>> a.append(20) 
+>>> a [10, 20] 
+>>> b [10, 20] 
+>>> a == b 
+True
+```
+
